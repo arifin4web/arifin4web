@@ -9,6 +9,6 @@ Passionate about clean code, modern tools, and solving real-world problems.
 🔧 Tech Stack:  
 - Python, Django, DRF  
 - React.js, Next.js  
-- PostgreSQL, REST nad GraphQL APIs, Docker, GitHub Actions  
+- PostgreSQL, REST and GraphQL APIs, Docker, GitHub Actions  
 
 📬 Open to remote opportunities worldwide!
