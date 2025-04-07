@@ -7,7 +7,7 @@ Strong in backend development with Python/Django and frontend with React.js & Ne
 Passionate about clean code, modern tools, and solving real-world problems.
 
 🔧 Tech Stack:  
-- Python, Django, DRF  
+- Python, Django, DRF, Graphane  
 - React.js, Next.js  
 - PostgreSQL, REST and GraphQL APIs, Docker, GitHub Actions  
 
