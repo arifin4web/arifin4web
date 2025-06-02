@@ -7,9 +7,9 @@ I specialize in creating responsive, high-performance interfaces with React.js a
 Passionate about clean code, intuitive UX, and solving real-world problems with modern tools.
 
 🔧 Tech Stack:
-	•	Frontend: React.js, Next.js, Tailwind CSS, TypeScript
-	•	Backend: Python, Django, DRF,  Graphene, Node.js, Express.js, Nest.js
-	•	Tools: PostgreSQL, REST/GraphQL APIs, Docker, GitHub Actions
+    • Frontend: React.js, Next.js, Tailwind CSS, TypeScript
+    • Backend: Python, Django, DRF,  Graphene, Node.js, Express.js, Nest.js
+    • Tools: PostgreSQL, REST/GraphQL APIs, Docker, GitHub Actions
 
 📬 Open to remote frontend or full-stack opportunities worldwide!
 
